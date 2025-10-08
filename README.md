@@ -47,9 +47,7 @@ Git | GitHub | Jupyter Notebook | Postman | VS Code | JetBrains
 
 ---
 
-### 📈 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryansharma01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma01&layout=compact&theme=radical)
+
 
 ---
 
